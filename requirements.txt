@@ -1,3 +1,4 @@
+git clone https://github.com/Wahybs/AutomatedPenetrationTestingTool.git
 cd AutomatedPenetrationTestingTool
 cd GooFuzz
 chmod +x GooFuzz
