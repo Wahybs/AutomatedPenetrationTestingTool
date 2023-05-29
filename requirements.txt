@@ -7,6 +7,7 @@ pip3 install -r req.txt
 pip3 install requests
 pip3 install colorama
 pip3 install pdfkit
+apt-get install wkhtmltopdf
 cd spiderfoot
 pip3 install -r requirements.txt
 cd ..
