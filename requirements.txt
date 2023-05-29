@@ -4,9 +4,9 @@ chmod +x GooFuzz
 ./GooFuzz -h
 cd ..
 pip3 install -r req.txt
-pip install requests
-pip install colorama
-
+pip3 install requests
+pip3 install colorama
+pip3 install pdfkit
 cd spiderfoot
 pip3 install -r requirements.txt
 cd ..
