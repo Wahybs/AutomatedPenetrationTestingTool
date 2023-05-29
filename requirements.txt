@@ -1,4 +1,4 @@
-
+cd AutomatedPenetrationTestingTool
 cd GooFuzz
 chmod +x GooFuzz
 ./GooFuzz -h
